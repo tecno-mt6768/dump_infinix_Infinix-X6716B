@@ -1,0 +1,20 @@
+## sys_tssi_64_infinix-user 13 TP1A.220624.014 646430 release-keys
+- Manufacturer: infinix
+- Platform: mt6768
+- Codename: Infinix-X6716B
+- Brand: Infinix
+- Flavor: sys_tssi_64_infinix-user
+- Release Version: 13
+- Kernel Version: 4.19.191
+- Id: TP1A.220624.014
+- Incremental: 240625V1204
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: Infinix/X6716B-GL/Infinix-X6716B:12/SP1A.210812.016/240626V897:user/release-keys
+- OTA version: 
+- Branch: sys_tssi_64_infinix-user-13-TP1A.220624.014-646430-release-keys
+- Repo: infinix_infinix-x6716b_dump
